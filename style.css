@@ -30,5 +30,5 @@ main,header{position:relative;z-index:1}
 .category-grid .visual.has-artwork:before,.category-grid .visual.has-artwork:after{display:none}
 .category-grid .visual.has-artwork img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;z-index:0}
 .category-grid .visual.has-artwork .num{z-index:1;padding:6px 8px;background:#10100fb8;color:#f0eee9;left:12px;top:12px}
-@media(max-width:720px){.category-grid .visual.has-artwork{height:auto;aspect-ratio:3/4}}.category-grid .visual.has-artwork.menu-artwork{aspect-ratio:4/3}
-.category-grid .visual.has-artwork.infographic-artwork{aspect-ratio:2/3;background:#f1eee5}
+@media(max-width:720px){.category-grid .visual.has-artwork{height:auto;aspect-ratio:3/4}}.category-grid .visual.has-artwork.menu-artwork{aspect-ratio:4/3}.category-grid .visual.has-artwork.infographic-artwork{aspect-ratio:2/3;background:#f1eee5}
+.category-grid .visual.has-artwork.presentation-artwork{aspect-ratio:16/9;background:#181917}
